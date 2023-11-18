@@ -10,8 +10,6 @@
 - 商户平台 https://pay.weixin.qq.com/
 
 ### 北京工作居住证
-http://www.bjrbj.gov.cn/bsfw/zxbs/201507/t20150714_51306.html
-zhangjx123/Zhangjx123
 - 申请办理报告（单位提供模板，填写个人基本信息）
 - 学历证书、学位证书原件及复印件、学信网打印学历电子注册备案表
 - 身份证原件及复印件
